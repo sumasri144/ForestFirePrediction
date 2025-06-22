@@ -7,8 +7,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 * Using Data Science and Machine learning, we can build a model that takes in the detected fires dataset learns and detects future fires based on certain Weather report.
-* Storing the Sourced dataset to MongoDB.
-* Building a **Flask App** hosted on **Heroku**.
 * **Sklearn** for pre-processing and Model Building
 * Pandas, Numpy, Matplotlib for csv reading, Data Processing, Data Cleaning, Visualization etc.
 
